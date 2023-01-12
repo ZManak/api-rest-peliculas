@@ -1,0 +1,24 @@
+{
+  "name": "api-rest-peliculas",
+  "version": "1.0.0",
+  "description": "Ejercicio APIS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZManak/api-rest-peliculas.git"
+  },
+  "keywords": [
+    "ejercicio",
+    "apis"
+  ],
+  "author": "ZManak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZManak/api-rest-peliculas/issues"
+  },
+  "homepage": "https://github.com/ZManak/api-rest-peliculas#readme"
+}
